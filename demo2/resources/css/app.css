@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+#nprogress .bar {
+  background: linear-gradient(90deg, #0ea5e9 0%, #2563eb 50%, #6366f1 100%);
+  height: 3px;
+}
+
+#nprogress .peg {
+  box-shadow:
+    0 0 10px #3b82f6,
+    0 0 5px #3b82f6;
+}
